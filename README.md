@@ -1,10 +1,16 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=wilde3&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+
 
 ### Introduction 👋
 
 - :orange_book: A student at shandong university
 - :hammer: Research Interests：Java programming, mathematical modeling, big data
 - :ram: Hobbies：Football, badminton, painting
-- :heart: Blog：www.airyv.com
+- :heart: Blog：[airyv's CSDN blog](https://blog.csdn.net/wilde123)
 
+![](https://github-readme-stats.vercel.app/api?username=airyv&show_icons=true&theme=transparent)
 
+You are my ![Visitor Count](https://profile-counter.glitch.me/airyv/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
+
+### My Skill Set
+
+![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)

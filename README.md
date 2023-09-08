@@ -5,7 +5,6 @@
 - :orange_book: A student at shandong university
 - :hammer: Research Interests：Java programming, mathematical modeling, big data
 - :ram: Hobbies：Football, badminton, painting
-- :heart: Blog：[airyv's CSDN blog](https://blog.csdn.net/wilde123)
 
 ![](https://github-readme-stats.vercel.app/api?username=airyv&show_icons=true&theme=transparent)
 
